@@ -27,7 +27,7 @@ To run the First Platformer Project on your local machine, follow these steps:
 
 1. Clone the repository to your local system using the following command:
 ```
-git clone https://github.com/your-username/first-platformer-project-unity.git
+https://github.com/Nothing00980/First-platformer-game-unity.git
 ```
 
 2. Open Unity game engine.
