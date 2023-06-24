@@ -2,6 +2,13 @@
 
 Welcome to the First Platformer Project repository! This is a 2D platformer game developed using Unity. It serves as a learning project, providing you with hands-on experience in game development and familiarizing yourself with the Unity game engine.
 
+## ScreenRecords--
+
+
+https://github.com/Nothing00980/First-platformer-game-unity/assets/100027640/f4b8cae4-7406-4c46-ab20-346388ebdb49
+
+
+
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
@@ -85,7 +92,7 @@ git push origin feature/your-feature
 
 
 ## APK Download
-To download the APK file of the First Platformer Project, click [here](link-to-apk-file). Make sure to install the APK on an Android device to run the game.
+To download the APK file of the First Platformer Project, click [here](https://github.com/Nothing00980/First-platformer-game-unity/blob/master/platformer.apk). Make sure to install the APK on an Android device to run the game.
 
 ---
 
